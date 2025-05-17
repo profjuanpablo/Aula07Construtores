@@ -37,7 +37,7 @@ namespace Aula07_Construtores
         }
 
 
-        //Destrutor
+        //Destrutor é chamado quando a a criação de uma nova instância
         ~Pessoa()
         {
             Console.WriteLine("Objeto  finalizado");
