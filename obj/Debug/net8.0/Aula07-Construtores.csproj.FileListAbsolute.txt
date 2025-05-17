@@ -1,0 +1,14 @@
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\bin\Debug\net8.0\Aula07-Construtores.exe
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\bin\Debug\net8.0\Aula07-Construtores.deps.json
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\bin\Debug\net8.0\Aula07-Construtores.runtimeconfig.json
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\bin\Debug\net8.0\Aula07-Construtores.dll
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\bin\Debug\net8.0\Aula07-Construtores.pdb
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.AssemblyInfoInputs.cache
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.AssemblyInfo.cs
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.csproj.CoreCompileInputs.cache
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.dll
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\refint\Aula07-Construtores.dll
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.pdb
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\Aula07-Construtores.genruntimeconfig.cache
+D:\Projetos\Csharp\CursoCSHARP\Aula07-Construtores\obj\Debug\net8.0\ref\Aula07-Construtores.dll
